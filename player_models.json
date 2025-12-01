@@ -1,0 +1,452 @@
+{
+    "Mikal Bridges": {
+        "name": "Mikal Bridges",
+        "coef_last_3": 0.0822270654190152,
+        "coef_opp_def": -0.05605126326286358,
+        "coef_home": 3.7903473650061787,
+        "intercept": 18.02004756026188,
+        "mae": 7.152087041831014,
+        "samples": 158
+    },
+    "Josh Hart": {
+        "name": "Josh Hart",
+        "coef_last_3": 0.3875544229320099,
+        "coef_opp_def": 0.4322055823675354,
+        "coef_home": -0.5340559646776137,
+        "intercept": -33.74817083378012,
+        "mae": 8.787393280875245,
+        "samples": 152
+    },
+    "Anthony Edwards": {
+        "name": "Anthony Edwards",
+        "coef_last_3": -0.02716544540226577,
+        "coef_opp_def": 0.8288917394122386,
+        "coef_home": -2.2887228094192067,
+        "intercept": -74.60397879693345,
+        "mae": 7.486696291483534,
+        "samples": 152
+    },
+    "Devin Booker": {
+        "name": "Devin Booker",
+        "coef_last_3": -0.21410062242331931,
+        "coef_opp_def": 0.9768689976870312,
+        "coef_home": -0.4242245001332726,
+        "intercept": -86.85846829576397,
+        "mae": 7.2985284427633,
+        "samples": 137
+    },
+    "James Harden": {
+        "name": "James Harden",
+        "coef_last_3": 0.24225523721046108,
+        "coef_opp_def": 0.41478588072347317,
+        "coef_home": 1.8516658591450692,
+        "intercept": -29.396528447983,
+        "mae": 8.834990945750327,
+        "samples": 145
+    },
+    "DeMar DeRozan": {
+        "name": "DeMar DeRozan",
+        "coef_last_3": -0.2124784137656883,
+        "coef_opp_def": 0.2623024148801186,
+        "coef_home": -0.6955535896070284,
+        "intercept": -9.312650647477643,
+        "mae": 7.534718502561691,
+        "samples": 150
+    },
+    "Trae Young": {
+        "name": "Trae Young",
+        "coef_last_3": 0.06973234206327991,
+        "coef_opp_def": 1.1231712478551386,
+        "coef_home": -2.291162994161405,
+        "intercept": -105.45867229101164,
+        "mae": 8.382651560325515,
+        "samples": 124
+    },
+    "Tyler Herro": {
+        "name": "Tyler Herro",
+        "coef_last_3": -0.23201279147950857,
+        "coef_opp_def": -0.015045456186098871,
+        "coef_home": 2.8335767502541676,
+        "intercept": 20.765239174631926,
+        "mae": 7.425255159758305,
+        "samples": 113
+    },
+    "OG Anunoby": {
+        "name": "OG Anunoby",
+        "coef_last_3": -0.014583491405580769,
+        "coef_opp_def": 0.3452888825557308,
+        "coef_home": 1.9589918362955427,
+        "intercept": -22.379711268460333,
+        "mae": 7.727331385755443,
+        "samples": 118
+    },
+    "Jalen Green": {
+        "name": "Jalen Green",
+        "coef_last_3": 0.23745966318178163,
+        "coef_opp_def": 0.5430058682138514,
+        "coef_home": 0.07602812727793506,
+        "intercept": -52.64121128098111,
+        "mae": 7.22130288361303,
+        "samples": 158
+    },
+    "Christian Braun": {
+        "name": "Christian Braun",
+        "coef_last_3": 0.4954549571609996,
+        "coef_opp_def": 0.5963563905062763,
+        "coef_home": -1.1224346368606488,
+        "intercept": -59.84766413066391,
+        "mae": 6.656202243542276,
+        "samples": 155
+    },
+    "Bam Adebayo": {
+        "name": "Bam Adebayo",
+        "coef_last_3": -0.1191167269204646,
+        "coef_opp_def": 0.25903683810288336,
+        "coef_home": -0.6089825367481418,
+        "intercept": -2.0948335584886983,
+        "mae": 8.328041515101997,
+        "samples": 143
+    },
+    "Ivica Zubac": {
+        "name": "Ivica Zubac",
+        "coef_last_3": 0.18997773801499304,
+        "coef_opp_def": 0.4281154175706624,
+        "coef_home": -0.49089443640596464,
+        "intercept": -28.444971755208023,
+        "mae": 8.103596579001563,
+        "samples": 142
+    },
+    "Jayson Tatum": {
+        "name": "Jayson Tatum",
+        "coef_last_3": 0.009390766871234146,
+        "coef_opp_def": 0.3206964964953192,
+        "coef_home": -0.5300725510275625,
+        "intercept": -14.836073656608018,
+        "mae": 7.740697483818659,
+        "samples": 140
+    },
+    "Jaden McDaniels": {
+        "name": "Jaden McDaniels",
+        "coef_last_3": 0.5449915305157969,
+        "coef_opp_def": 0.3379476811710347,
+        "coef_home": 1.6683560238698842,
+        "intercept": -32.35488920453963,
+        "mae": 7.016251568905105,
+        "samples": 148
+    },
+    "Keegan Murray": {
+        "name": "Keegan Murray",
+        "coef_last_3": -0.3192232416954201,
+        "coef_opp_def": -0.20107547672780585,
+        "coef_home": 0.49970861775585573,
+        "intercept": 44.804663264988505,
+        "mae": 6.527789182310366,
+        "samples": 147
+    },
+    "Zach LaVine": {
+        "name": "Zach LaVine",
+        "coef_last_3": 0.2433695899630159,
+        "coef_opp_def": 0.21078409471091394,
+        "coef_home": 0.8400566462096677,
+        "intercept": -13.337196862415723,
+        "mae": 6.593687778141884,
+        "samples": 93
+    },
+    "Shai Gilgeous-Alexander": {
+        "name": "Shai Gilgeous-Alexander",
+        "coef_last_3": 0.1113465854109784,
+        "coef_opp_def": -0.08458267850075307,
+        "coef_home": 6.1751664114533735,
+        "intercept": 30.208280178880766,
+        "mae": 8.058223839417193,
+        "samples": 145
+    },
+    "Michael Porter Jr.": {
+        "name": "Michael Porter Jr.",
+        "coef_last_3": -0.09498923109787204,
+        "coef_opp_def": 0.24329979001232255,
+        "coef_home": 1.790057313203697,
+        "intercept": -10.53358481190465,
+        "mae": 6.580466872918938,
+        "samples": 152
+    },
+    "Derrick White": {
+        "name": "Derrick White",
+        "coef_last_3": 0.4202500763916408,
+        "coef_opp_def": -0.3253629520295358,
+        "coef_home": 3.7715146783497597,
+        "intercept": 47.43934637444718,
+        "mae": 7.18430667176404,
+        "samples": 143
+    },
+    "Dyson Daniels": {
+        "name": "Dyson Daniels",
+        "coef_last_3": 0.5772759465874122,
+        "coef_opp_def": 0.17206018313101634,
+        "coef_home": 0.8512490139985333,
+        "intercept": -10.354856738110492,
+        "mae": 7.912493103578077,
+        "samples": 131
+    },
+    "Nikola Joki\u0107": {
+        "name": "Nikola Joki\u0107",
+        "coef_last_3": -0.09951467019440263,
+        "coef_opp_def": 0.49607738479021046,
+        "coef_home": 0.8887480249246302,
+        "intercept": -11.41832152357319,
+        "mae": 10.649531789952038,
+        "samples": 143
+    },
+    "Austin Reaves": {
+        "name": "Austin Reaves",
+        "coef_last_3": -0.05671780398802692,
+        "coef_opp_def": 0.667523076567272,
+        "coef_home": 0.44692143559704645,
+        "intercept": -56.65041448771365,
+        "mae": 7.405267234830931,
+        "samples": 149
+    },
+    "Toumani Camara": {
+        "name": "Toumani Camara",
+        "coef_last_3": 0.33505734237831275,
+        "coef_opp_def": 0.1935602626217593,
+        "coef_home": 2.487431564417211,
+        "intercept": -12.598233088011149,
+        "mae": 6.238089994663093,
+        "samples": 142
+    },
+    "Pascal Siakam": {
+        "name": "Pascal Siakam",
+        "coef_last_3": -0.020799143815959372,
+        "coef_opp_def": 0.43128550159492846,
+        "coef_home": -0.7556512591869338,
+        "intercept": -28.688186073994885,
+        "mae": 6.962329279642087,
+        "samples": 152
+    },
+    "Brook Lopez": {
+        "name": "Brook Lopez",
+        "coef_last_3": 0.12380110220791375,
+        "coef_opp_def": 0.24249566445525628,
+        "coef_home": 1.8125588733796345,
+        "intercept": -10.532629070184399,
+        "mae": 8.372020561629098,
+        "samples": 153
+    },
+    "Karl-Anthony Towns": {
+        "name": "Karl-Anthony Towns",
+        "coef_last_3": 0.4531600098920677,
+        "coef_opp_def": 0.4582489499400124,
+        "coef_home": -3.2215004483305942,
+        "intercept": -38.50263609951008,
+        "mae": 8.310539417217942,
+        "samples": 128
+    },
+    "Bub Carrington": {
+        "name": "Bub Carrington",
+        "coef_last_3": 0.1475092623691923,
+        "coef_opp_def": 0.23056696185476433,
+        "coef_home": 3.3550520500892715,
+        "intercept": -16.10031045373452,
+        "mae": 7.716391600640574,
+        "samples": 79
+    },
+    "Cade Cunningham": {
+        "name": "Cade Cunningham",
+        "coef_last_3": 0.2788320094150967,
+        "coef_opp_def": 0.4308155814316985,
+        "coef_home": 2.5993103013074044,
+        "intercept": -34.89032659175023,
+        "mae": 8.048708546545502,
+        "samples": 126
+    },
+    "Tyrese Haliburton": {
+        "name": "Tyrese Haliburton",
+        "coef_last_3": 0.1757402188398721,
+        "coef_opp_def": 0.39647904184790567,
+        "coef_home": 0.6527466952084899,
+        "intercept": -19.901925613135134,
+        "mae": 9.957940667978471,
+        "samples": 136
+    },
+    "Coby White": {
+        "name": "Coby White",
+        "coef_last_3": 0.08159947208175881,
+        "coef_opp_def": 1.0627208869297102,
+        "coef_home": 0.3412167839431224,
+        "intercept": -106.8440662028556,
+        "mae": 7.335837193474407,
+        "samples": 147
+    },
+    "LeBron James": {
+        "name": "LeBron James",
+        "coef_last_3": 0.07428837449270644,
+        "coef_opp_def": 0.3055854250490979,
+        "coef_home": 0.13450868223634715,
+        "intercept": -10.046327501995655,
+        "mae": 8.47839014350593,
+        "samples": 135
+    },
+    "Domantas Sabonis": {
+        "name": "Domantas Sabonis",
+        "coef_last_3": 0.32126831546149565,
+        "coef_opp_def": 0.4021296914734431,
+        "coef_home": -0.6827348358653929,
+        "intercept": -23.03915644374443,
+        "mae": 8.578953239672673,
+        "samples": 146
+    },
+    "Jamal Murray": {
+        "name": "Jamal Murray",
+        "coef_last_3": -0.14890077693584408,
+        "coef_opp_def": 0.7444947786020946,
+        "coef_home": 0.428662893270932,
+        "intercept": -59.85252577108989,
+        "mae": 7.847375083555169,
+        "samples": 120
+    },
+    "Alperen Sengun": {
+        "name": "Alperen Sengun",
+        "coef_last_3": 0.0037923193275668063,
+        "coef_opp_def": 0.40034235961365483,
+        "coef_home": 1.8762486390225386,
+        "intercept": -21.814598455569413,
+        "mae": 7.687100717046089,
+        "samples": 133
+    },
+    "Rudy Gobert": {
+        "name": "Rudy Gobert",
+        "coef_last_3": 0.05928860967320057,
+        "coef_opp_def": 0.4301339486874616,
+        "coef_home": 1.8659504640277558,
+        "intercept": -24.304861018123873,
+        "mae": 8.641500469180682,
+        "samples": 142
+    },
+    "Dillon Brooks": {
+        "name": "Dillon Brooks",
+        "coef_last_3": -0.19207752112330403,
+        "coef_opp_def": 0.0806685249491162,
+        "coef_home": 0.4767347387691764,
+        "intercept": 2.397272436220259,
+        "mae": 6.2356793355179505,
+        "samples": 141
+    },
+    "Tobias Harris": {
+        "name": "Tobias Harris",
+        "coef_last_3": -0.11826173720819656,
+        "coef_opp_def": 0.2350155734897984,
+        "coef_home": 2.8087791361818475,
+        "intercept": -8.439644655886365,
+        "mae": 7.1198675407811844,
+        "samples": 137
+    },
+    "Darius Garland": {
+        "name": "Darius Garland",
+        "coef_last_3": 0.05980610204175055,
+        "coef_opp_def": 0.250434234555357,
+        "coef_home": -1.1418583484571228,
+        "intercept": -10.859836590065193,
+        "mae": 6.982639280453802,
+        "samples": 126
+    },
+    "Jalen Brunson": {
+        "name": "Jalen Brunson",
+        "coef_last_3": -0.13375305721397496,
+        "coef_opp_def": 1.1152189043440375,
+        "coef_home": 0.9941436394960208,
+        "intercept": -105.96602435726513,
+        "mae": 7.075682082094774,
+        "samples": 136
+    },
+    "Jarrett Allen": {
+        "name": "Jarrett Allen",
+        "coef_last_3": 0.1360811377360668,
+        "coef_opp_def": 0.28087234658200255,
+        "coef_home": 2.91583482119454,
+        "intercept": -12.498339407874912,
+        "mae": 8.243432468890072,
+        "samples": 153
+    },
+    "Chris Paul": {
+        "name": "Chris Paul",
+        "coef_last_3": -0.3586382607345405,
+        "coef_opp_def": 0.38370141652694745,
+        "coef_home": 2.4804197604157636,
+        "intercept": -15.13789702006671,
+        "mae": 7.781733406012108,
+        "samples": 134
+    },
+    "Anfernee Simons": {
+        "name": "Anfernee Simons",
+        "coef_last_3": 0.13761871147039717,
+        "coef_opp_def": 0.9371725412887192,
+        "coef_home": -0.6809084387032011,
+        "intercept": -94.51119650462081,
+        "mae": 6.383022996836636,
+        "samples": 110
+    },
+    "Giannis Antetokounmpo": {
+        "name": "Giannis Antetokounmpo",
+        "coef_last_3": 0.09355800235440227,
+        "coef_opp_def": 0.6531454565829707,
+        "coef_home": 0.48073109333212044,
+        "intercept": -46.66989920676693,
+        "mae": 9.634695768711165,
+        "samples": 134
+    },
+    "Malik Beasley": {
+        "name": "Malik Beasley",
+        "coef_last_3": 0.19943577222824704,
+        "coef_opp_def": 0.5399118508857035,
+        "coef_home": -0.4462184898458013,
+        "intercept": -52.55002584105314,
+        "mae": 6.0381437759955885,
+        "samples": 155
+    },
+    "Kentavious Caldwell-Pope": {
+        "name": "Kentavious Caldwell-Pope",
+        "coef_last_3": 0.18979596383587027,
+        "coef_opp_def": 0.5425925569686402,
+        "coef_home": -0.5207764885403678,
+        "intercept": -50.828873701972874,
+        "mae": 6.426547860124739,
+        "samples": 147
+    },
+    "Nikola Vu\u010devi\u0107": {
+        "name": "Nikola Vu\u010devi\u0107",
+        "coef_last_3": 0.07225738220035945,
+        "coef_opp_def": 0.7842204812212242,
+        "coef_home": -2.690200236482537,
+        "intercept": -64.90240739323974,
+        "mae": 7.567121237558819,
+        "samples": 143
+    },
+    "Payton Pritchard": {
+        "name": "Payton Pritchard",
+        "coef_last_3": 0.05891571964346318,
+        "coef_opp_def": -0.03133175276681355,
+        "coef_home": 1.876252248401301,
+        "intercept": 16.752798261197,
+        "mae": 7.907785804816831,
+        "samples": 156
+    },
+    "Kevin Durant": {
+        "name": "Kevin Durant",
+        "coef_last_3": 0.04689487970503285,
+        "coef_opp_def": 0.49640043409740425,
+        "coef_home": -0.14273853784942403,
+        "intercept": -36.122261563224725,
+        "mae": 7.909252424077078,
+        "samples": 131
+    },
+    "Stephen Curry": {
+        "name": "Stephen Curry",
+        "coef_last_3": 0.06081372323560117,
+        "coef_opp_def": 0.28778503778908715,
+        "coef_home": -3.6616395410967204,
+        "intercept": -13.853190741770643,
+        "mae": 8.152669264033435,
+        "samples": 138
+    }
+}

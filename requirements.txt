@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+selenium
+nba_api
+plotly
+scikit-learn
+xgboost
+joblib
+tqdm
+beautifulsoup4
+webdriver-manager
